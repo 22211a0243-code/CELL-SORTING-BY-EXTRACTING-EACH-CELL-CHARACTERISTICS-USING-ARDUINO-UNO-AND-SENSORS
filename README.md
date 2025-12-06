@@ -1,0 +1,2 @@
+# CELL-SORTING-BY-EXTRACTING-EACH-CELL-CHARACTERISTICS-USING-ARDUINO-UNO-AND-SENSORS
+This project uses Arduino UNO and sensors to detect and extract characteristics of each cell, such as size and light intensity. The system processes these readings in real time to classify cells into different categories. A motor-based mechanism then automatically sorts the cells based on the extracted characteristics.
